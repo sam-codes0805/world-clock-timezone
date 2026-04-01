@@ -1,0 +1,63 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+    background: url(./earth_4k-wallpaper-3840x2160.jpg), radial-gradient(rgba(0, 0, 0, 0.727), rgba(0, 0, 0, 0.727));
+    color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.box {
+        padding: 20px;
+        /* display: inline-block; */
+        margin: 3rem 0 0 3rem;
+        /* background-color: rgba(20, 46, 134, 0.727); */
+}
+
+.clock {
+    margin-bottom: 2rem;
+}
+#time {
+    font-size: 5rem;
+}
+#date {
+    font-size: 2rem;
+}
+
+.zone {
+    margin-top: 17rem;
+    margin-left: 55rem;
+    margin-right: 3rem;
+    /* margin-bottom: 5rem; */
+    /* align-items: right; */
+    text-align: right;
+    /* border: 1px solid white; */
+}
+
+#timezones{
+    font-size: 1.5rem;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border-radius: 1.5rem;
+    border: .5px solid rgb(255, 255, 255);
+    padding: 8px 0 8px 25px;
+    width: 20rem;
+}
+
+#chZone {
+    display: inline-block;
+    font-size: 1.3rem;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 1.2rem;
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0);
+    padding: .5rem;
+    margin-top: .7rem;
+}
+#chZone:hover {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+}
+
