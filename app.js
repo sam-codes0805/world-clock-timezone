@@ -36,7 +36,7 @@ fetchTimezones();
 
 
 
-// Settin Default Zone Time
+// Setting Default Zone Time
 
 (function defaultime () {
     setInterval( async () => {

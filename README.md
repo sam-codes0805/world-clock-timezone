@@ -14,8 +14,11 @@ A web application that displays real-time time based on selected timezone using 
 - JavaScript
 - Timezone API
 
+## Screenshot
+![alt text](<Screenshot 2026-04-02 213953.png>)
+
 ## Live Demo
-https://world-clock-demo.netlify.app
+https://world-clock-8125.netlify.app/
 
 ## How to Run
 1. Open index.html in browser

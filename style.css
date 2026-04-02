@@ -1,6 +1,6 @@
 body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
-    background: url(./earth_4k-wallpaper-3840x2160.jpg), radial-gradient(rgba(0, 0, 0, 0.727), rgba(0, 0, 0, 0.727));
+    background: url(./background.jpg), radial-gradient(rgba(0, 0, 0, 0.727), rgba(0, 0, 0, 0.727));
     color: white;
     background-size: cover;
     background-repeat: no-repeat;
@@ -26,7 +26,7 @@ body {
 }
 
 .zone {
-    margin-top: 17rem;
+    margin-top: 14.5rem;
     margin-left: 55rem;
     margin-right: 3rem;
     /* margin-bottom: 5rem; */
